@@ -16,11 +16,7 @@
     "version": "npm run format && git add -A src",
     "postversion": "git push && git push --tags"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/manishpatilgurjar/OAuth.git"
-  },
-  "author": "Manish Patil",
+  "author": "Rupesh Patil",
   "devDependencies": {
     "@types/bcryptjs": "^2.4.6",
     "@types/jest": "^29.5.12",
